@@ -76,7 +76,6 @@ def prediction(df, country_list, start_year, end_year):
         forecasts_dict[i] = forecast
 
         #4. Transformig the dictionary to a DataFrame
-        #df_forecasts=pd.DataFrame.from_dict(forecasts_dict)
         df_forecasts=pd.DataFrame(forecasts_dict)
 
         #5. Adding the year of the prediction as the index
