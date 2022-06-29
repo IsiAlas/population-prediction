@@ -7,8 +7,10 @@
 
 **Results**
 
-Using the file predict.py, the result is a csv file with the population prediction from 2021 - 2050 for 225 countries and locations.
-Additionally, we have created some [interactive visualizations](https://www.notion.so/Population-Prediction-Interactive-Visualisationsfc394bbd153a49e198773528b8f75093) with the prediction results, along wiht the historical data.
+Using the file predict.py, the result is a csv file with the population prediction from 2021 - 2050 for 223 countries and locations.
+
+- Additionally, we have created some [interactive visualizations](https://www.notion.so/Population-Prediction-Interactive-Visualisationsfc394bbd153a49e198773528b8f75093) with the prediction results, along wiht the historical data.
+- You can find our results in forecast_per_country_2021-2050.csv
 
 **Dataset description**
 
