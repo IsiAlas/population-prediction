@@ -8,7 +8,7 @@
 **Results**
 
 Using the file predict.py, the result is a csv file with the population prediction from 2021 - 2050 for 225 countries and locations.
-Additionally, we have created some [interactive visualizations] (https://www.notion.so/Population-Prediction-Interactive-Visualisations-fc394bbd153a49e198773528b8f75093) with the prediction results, along wiht the historical data.
+Additionally, we have created some [interactive visualizations](https://www.notion.so/Population-Prediction-Interactive-Visualisationsfc394bbd153a49e198773528b8f75093) with the prediction results, along wiht the historical data.
 
 **Dataset description**
 
@@ -17,7 +17,7 @@ Total population by sex, annually from 1950 to 2100.
 - LocID (numeric): numeric code for the location; for countries and areas, it follows the ISO 3166-1 numeric standard
 - Location (string): name of the region, subregion, country or area
 - VarID (numeric): numeric code for the variant
-- Variant (string): projection variant name (Medium is the most used); for more information see [Definition of projection variants](https://population.un.org/wpp/DefinitionOfProjectionVariants/)
+- Variant (string): projection variant name (Medium is the most used)
 - Time (string): label identifying the single year (e.g. 1950) or the period of the data (e.g. 1950-1955)
 - MidPeriod (numeric): numeric value identifying the mid period of the data, with the decimal representing the month (e.g. 1950.5 for July 1950)
 - PopMale: Total male population (thousands)
