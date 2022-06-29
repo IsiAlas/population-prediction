@@ -30,7 +30,7 @@ Total population by sex, annually from 1950 to 2100.
 **Dataset Preprocessing**
 
 - Filtered the dataset to only have data from 1950 - 2020 (historical data) with the Medium Variant.
-- More details on the preprocessing in the notebook predictions.ipynb
+- More details on the preprocessing in the notebook timeseries_forecasts.ipynb
 
 **Prediction Process**
 
